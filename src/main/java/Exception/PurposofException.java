@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class PurposofException {
 
 	public static void main(String[] args) {
-		String collect="i am thivin , form mettur";
+		String collect="i am thivin , from mettur";
 		Scanner scan=new Scanner(System.in);
 		try//condtion block
 		{
